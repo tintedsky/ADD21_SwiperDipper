@@ -75,7 +75,7 @@ GestureDetector.OnDoubleTapListener{
 
     @Override
     public boolean onSingleTapUp(MotionEvent e) {
-        responseMsg.setText("onSingleTapUp");
+        responseMsg.setText("onSingleTapUp_mmmm");
         return true;
     }
 

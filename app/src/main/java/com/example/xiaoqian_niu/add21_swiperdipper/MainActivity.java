@@ -86,7 +86,7 @@ GestureDetector.OnDoubleTapListener{
 
     @Override
     public void onLongPress(MotionEvent e) {
-        responseMsg.setText("onLongPress");
+        responseMsg.setText("onLongPressahoh");
     }
 
     @Override

@@ -81,7 +81,7 @@ GestureDetector.OnDoubleTapListener{
 
     @Override
     public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX, float distanceY) {
-        responseMsg.setText("onScroll_xiaomage");
+        responseMsg.setText("onScroll_xiaomageXXX");
         return true;
     }
 

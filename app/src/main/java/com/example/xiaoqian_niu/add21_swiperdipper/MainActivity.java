@@ -43,6 +43,7 @@ GestureDetector.OnDoubleTapListener{
 
     //////////////////////Start Gestures ////////////////////
 
+	//Left some extra comments (Xinlin)
     @Override
     public boolean onSingleTapConfirmed(MotionEvent e) {
         responseMsg.setText("onSingleTapConfirmed");
